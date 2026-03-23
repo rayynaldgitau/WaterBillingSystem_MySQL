@@ -1,6 +1,6 @@
 # Smart Meal Planner
 
-> *Because deciding what to eat shouldn't be the hardest part of your day*
+> Because deciding what to eat should not be the hardest part of your day
 
 ---
 
@@ -29,15 +29,8 @@ A **rule-based expert system** that recommends personalized meals based on your:
 ---
 
 ## How It Works
-`
-User Input
-     |
-Apply Rules
-     |
-Filter Meals
-     |
-Display Results
-`
+
+User Input -> Apply Rules -> Filter Meals -> Display Results
 
 ---
 
@@ -46,7 +39,7 @@ Display Results
 1. Make sure meals.json is in the project folder
 2. Run the CLI script
 3. Answer the questions about your diet and goals
-4. Get your personalized meal suggestions!
+4. Get your personalized meal suggestions
 
 ---
 
@@ -54,8 +47,8 @@ Display Results
 
 - Tags must match exactly, use high_protein not high protein
 - CLI version recommended for simplicity
-- Rules and dataset must always stay in sync!
+- Rules and dataset must always stay in sync
 
 ---
 
-*Made with love by the Smart Meal Planner Team*
+Made with love by the Smart Meal Planner Team
