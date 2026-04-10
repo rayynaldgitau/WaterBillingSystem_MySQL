@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Abdirahman/OneDrive/Documents/NetBeansProjects/WaterBillingSystem_V2/src/model/Administrator.java</file>
+            <file>file:/C:/Users/Abdirahman/OneDrive/Documents/NetBeansProjects/WaterBillingSystem_V2/src/dao/AdminDAO.java</file>
+            <file>file:/C:/Users/Abdirahman/OneDrive/Documents/NetBeansProjects/WaterBillingSystem_V2/src/dao/ComplaintDAO.java</file>
+            <file>file:/C:/Users/Abdirahman/OneDrive/Documents/NetBeansProjects/WaterBillingSystem_V2/src/model/Complaint.java</file>
+            <file>file:/C:/Users/Abdirahman/OneDrive/Documents/NetBeansProjects/WaterBillingSystem_V2/src/service/ComplaintService.java</file>
+            <file>file:/C:/Users/Abdirahman/OneDrive/Documents/NetBeansProjects/WaterBillingSystem_V2/src/ui/AdminFrame.java</file>
+            <file>file:/C:/Users/Abdirahman/OneDrive/Documents/NetBeansProjects/WaterBillingSystem_V2/src/service/ReportingService.java</file>
+            <file>file:/C:/Users/Abdirahman/OneDrive/Documents/NetBeansProjects/WaterBillingSystem_V2/src/dao/MySQLAdminDAO.java</file>
+            <file>file:/C:/Users/Abdirahman/OneDrive/Documents/NetBeansProjects/WaterBillingSystem_V2/src/ui/LoginFrame.java</file>
+            <file>file:/C:/Users/Abdirahman/OneDrive/Documents/NetBeansProjects/WaterBillingSystem_V2/src/dao/MySQLComplaintDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
